@@ -49,7 +49,10 @@ export const ChatScreen = () => {
         return hours + ':' + minutes;
     }
     const buscarMensajes = (texto) => {
-        const mensajesEncontrados = mensajes.filter((item)=> item.texto.toLowerCase().includes(texto.toLowerCase()))
+        let mensajesEncontrados = []
+        if (texto !== '') {
+            mensajesEncontrados = mensajes.filter((item)=> item.texto.toLowerCase().includes(texto.toLowerCase()))
+        }
         setMensajesEncontrados(mensajesEncontrados)
     } 
     

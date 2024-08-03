@@ -100,7 +100,6 @@
 @media screen and (max-width: 420px) {
     .whatsapp {
         font-size: 15px;
-
     }
 
     .iconos {
@@ -109,37 +108,37 @@
     }
 
     .input-buscar {
-        font-size: 10px;
+        font-size: 13px;
     }
 
     .lupita {
         position: absolute;
-        top: 7px;
-        left: 9px;
+        top: 9px;
+        left: 11px;
         font-size: 9px;
     }
 
     .imagenes {
-        width: 30px;
-        height: 30px;
+        width: 35px;
+        height: 35px;
         padding: 0;
         margin: 0;
     }
 
     .lista-contacto .contacto .nombre{
-        font-size: 10px;
+        font-size: 13px;
         padding: 0;
         margin: 0;
     }
 
     .lista-contactos .contacto .texto{
-        font-size: 7px;
+        font-size: 9px;
         font-weight: 300;
         padding: 0;
         margin: 0;
     }
 
     .tiempo {
-        font-size: 7px;
+        font-size: 9px;
     }
 }

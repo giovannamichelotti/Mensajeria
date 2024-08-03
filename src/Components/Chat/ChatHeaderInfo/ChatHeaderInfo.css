@@ -79,20 +79,20 @@
     margin-left: auto;
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 420px) {
     .imagen-chat {
-        width: 30px;
-        height: 30px;
+        width: 40px;
+        height: 40px;
         margin: 0;
         padding: 0;
     }
     .flecha {
-        font-size: 10px;
+        font-size: 12px;
         margin: 0;
         padding: 0;
     }
     .contacto-total .contacto-nombre {
-        font-size: 13px;
+        font-size: 15px;
         font-weight: 650;
         margin: 0;
         padding: 0;
@@ -102,8 +102,21 @@
         margin: 0;
         padding: 0;
     }
+
+    .chat-header .form-info {
+        margin: 10px;
+    }
+
     .iconos-header {
         font-size: 15px;
-        /* si pongo el margin: 0 se me pegan los iconos a la informacion del contacto */
+    }
+
+    .input-info {
+        font-size: 15px;
+    }
+
+    .icono-info {
+        color: #E9EDEF;
+        font-size: 12px;
     }
 }

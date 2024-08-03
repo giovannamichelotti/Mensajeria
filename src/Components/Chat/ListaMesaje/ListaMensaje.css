@@ -33,9 +33,21 @@
     align-items: flex-start;
     background-image: url('/public/FondoDeWhatsApp.jpg');
     height: 100%;
-    overflow-y:scroll;
+    overflow-y: scroll;
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 420px) {
+    .mensaje .mensaje-hora {
+        font-size: 10px;
+    }
+
+    .mensaje.mio {
+        font-size: 13px;
+        padding: 0;
+    }
     
+    .mensaje.otro {
+        font-size: 13px;
+        padding: 0;
+    }
 }

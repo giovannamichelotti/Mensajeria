@@ -57,7 +57,7 @@
         "mensajes": [
             {
                 "autor": "yo",
-                "texto": "¿Cómo están tus dragones?",
+                "texto": "¿Como están tus dragones?",
                 "estado": "visto",
                 "dia": "hoy",
                 "hora": "22:45",
@@ -65,7 +65,7 @@
             },
             {
                 "autor": "Daenerys Targaryen",
-                "texto": "Están para prender fuego todo Poniente",
+                "texto": "Estan para prender fuego todo Poniente",
                 "estado": "visto",
                 "dia": "hoy",
                 "hora": "22:47",
@@ -90,7 +90,7 @@
         "mensajes": [
             {
                 "autor": "Jon Snow",
-                "texto": "El invierno está aquí",
+                "texto": "El invierno esta aquí",
                 "estado": "visto",
                 "dia": "hoy",
                 "hora": "22:00",
@@ -98,7 +98,7 @@
             },
             {
                 "autor": "yo",
-                "texto": "No lo puedo creer, pensé que faltaba",
+                "texto": "No lo puedo creer, pense que faltaba",
                 "estado": "visto",
                 "dia": "hoy",
                 "hora": "22:03",
@@ -114,7 +114,7 @@
             },
             {
                 "autor": "yo",
-                "texto": "Te pegó bien la resucitada",
+                "texto": "Te pego bien la resucitada",
                 "estado": "entregado",
                 "dia": "hoy",
                 "hora": "22:10",
@@ -131,7 +131,7 @@
         "mensajes": [
             {
                 "autor": "Cersei Lannister",
-                "texto": "¿Te gustó como exploté la ciudad?",
+                "texto": "¿Te gusto como explote la ciudad?",
                 "estado": "visto",
                 "dia": "hoy",
                 "hora": "21:48",
@@ -139,7 +139,7 @@
             },
             {
                 "autor": "yo",
-                "texto": "No, la verdad que deberías haber explotado vos",
+                "texto": "No, la verdad que deberias haber explotado vos",
                 "estado": "visto",
                 "dia": "hoy",
                 "hora": "21:49",
@@ -147,7 +147,7 @@
             },
             {
                 "autor": "Cersei Lannister",
-                "texto": "Jajaja, jamás va a pasar",
+                "texto": "Jajaja, jamas va a pasar",
                 "estado": "visto",
                 "dia": "hoy",
                 "hora": "21:53",
@@ -172,7 +172,7 @@
         "mensajes": [
             {
                 "autor": "yo",
-                "texto": "¿Qué estás viendo ahora, cuervo?",
+                "texto": "¿Qué estas viendo ahora, cuervo?",
                 "estado": "visto",
                 "dia": "hoy",
                 "hora": "20:30",
@@ -180,7 +180,7 @@
             },
             {
                 "autor": "Bran Stark",
-                "texto": "El invierno ya llegó",
+                "texto": "El invierno ya llego",
                 "estado": "visto",
                 "dia": "hoy",
                 "hora": "20:32",
@@ -213,7 +213,7 @@
         "mensajes": [
             {
                 "autor": "yo",
-                "texto": "Hola Tyrion, ¿cómo estás?",
+                "texto": "Hola Tyrion, ¿como estas?",
                 "estado": "visto",
                 "dia": "hoy",
                 "hora": "19:50",
@@ -229,7 +229,7 @@
             },
             {
                 "autor": "yo",
-                "texto": "No cambiás más",
+                "texto": "No cambias mas",
                 "estado": "noEntregado",
                 "dia": "hoy",
                 "hora": "19:55",
@@ -246,7 +246,7 @@
         "mensajes": [
             {
                 "autor": "Varys",
-                "texto": "¿Sabés lo que le pasa a Tyron?",
+                "texto": "¿Sabas lo que le pasa a Tyron?",
                 "estado": "visto",
                 "dia": "hoy",
                 "hora": "19:33",
@@ -254,7 +254,7 @@
             },
             {
                 "autor": "yo",
-                "texto": "Está haciendo lo mismo de siempre, bebiendo",
+                "texto": "Esta haciendo lo mismo de siempre, bebiendo",
                 "estado": "visto",
                 "dia": "hoy",
                 "hora": "19:34",
@@ -271,7 +271,7 @@
         "mensajes": [
             {
                 "autor": "yo",
-                "texto": "Hola Hodor, cómo está Bran?",
+                "texto": "Hola Hodor, como esta Bran?",
                 "estado": "visto",
                 "dia": "hoy",
                 "hora": "19:07",
@@ -312,7 +312,7 @@
         "mensajes": [
             {
                 "autor": "Night King",
-                "texto": "Vamos a matarlos a todos, serán de los nuestros",
+                "texto": "Vamos a matarlos a todos, seran de los nuestros",
                 "estado": "visto",
                 "dia": "hoy",
                 "hora": "19:00",
@@ -329,7 +329,7 @@
         "mensajes": [
             {
                 "autor": "Samwell Tarly",
-                "texto": "Tenés que avisarle a Jon que el invierno ya llegó",
+                "texto": "Tenes que avisarle a Jon que el invierno ya llego",
                 "estado": "visto",
                 "dia": "hoy",
                 "hora": "18:53",

@@ -97,7 +97,7 @@
     margin: 0;
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 420px) {
     .whatsapp {
         font-size: 15px;
 
